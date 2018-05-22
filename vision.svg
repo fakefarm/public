@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1400 600" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" style="white-space: pre;">
+    <defs>
+        <radialGradient id="Gradient-0" cx="715.704" cy="327.576" r="715.704" fx="715.704" fy="327.576" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#f7ffd2"/>
+            <stop offset="1" stop-color="#15e7c7"/>
+        </radialGradient>
+    </defs>
+    <style>
+@keyframes a0_t { 0% { transform: translate(636.748198px,-39.819616px) skewX(50deg) skewY(5deg) translate(-663.972587px,-163.346331px); } 100% { transform: translate(636.748198px,-516.874466px) skewX(50deg) skewY(5deg) translate(-663.972587px,-163.346331px); } }
+@keyframes a1_t { 0% { transform: translate(636.748px,-566.820116px) skewX(50deg) skewY(5deg) translate(-663.973px,-163.346px); } 100% { transform: translate(636.748px,-298.874966px) skewX(50deg) skewY(5deg) translate(-663.973px,-163.346px); } }
+@keyframes a2_t { 0% { transform: translate(636.748px,-917.820116px) skewX(50deg) skewY(5deg) translate(-663.973px,-163.346px); } 100% { transform: translate(636.748px,-189.874966px) skewX(50deg) skewY(5deg) translate(-663.973px,-163.346px); } }
+@keyframes a3_t { 0% { transform: translate(636.748198px,625.180384px) skewX(50deg) skewY(5deg) translate(-663.972587px,-163.346331px); } 100% { transform: translate(636.748198px,163.125534px) skewX(50deg) skewY(5deg) translate(-663.972587px,-163.346331px); } }
+@keyframes a4_t { 0% { transform: translate(636.748px,163.179884px) skewX(50deg) skewY(5deg) translate(-663.973px,-163.346px); } 100% { transform: translate(636.748px,-298.874966px) skewX(50deg) skewY(5deg) translate(-663.973px,-163.346px); } }
+@keyframes a5_t { 0% { transform: translate(636.748px,1087.179884px) skewX(50deg) skewY(5deg) translate(-663.973px,-163.346px); } 100% { transform: translate(636.748px,625.125034px) skewX(50deg) skewY(5deg) translate(-663.973px,-163.346px); } }
+    </style>
+    <rect width="1431.41" height="655.152" fill="url(#Gradient-0)" stroke="none" transform="translate(738.013,312.686) translate(-757.396,-342.466)"/>
+    <g transform="translate(64,0) rotate(90)">
+        <rect width="1327.95" height="326.693" fill="#b2f8ab" stroke="none" transform="translate(636.748,-39.8196) skewX(50) skewY(5) translate(-663.973,-163.346)" style="mix-blend-mode: color-burn; animation: a0_t 20s linear infinite both;"/>
+        <rect width="1327.95" height="326.693" fill="#b2f8ab" stroke="none" transform="translate(636.748,-566.82) skewX(50) skewY(5) translate(-663.973,-163.346)" style="mix-blend-mode: color-burn; animation: a1_t 20s linear infinite both;"/>
+        <rect width="1327.95" height="326.693" fill="#b2f8ab" stroke="none" transform="translate(636.748,-917.82) skewX(50) skewY(5) translate(-663.973,-163.346)" style="mix-blend-mode: color-burn; animation: a2_t 20s linear infinite both;"/>
+    </g>
+    <g transform="translate(64,0)">
+        <rect width="1327.95" height="326.693" fill="#b2f8ab" stroke="none" transform="translate(636.748,625.18) skewX(50) skewY(5) translate(-663.973,-163.346)" style="mix-blend-mode: color-burn; animation: a3_t 20s linear infinite both;"/>
+        <rect width="1327.95" height="326.693" fill="#b2f8ab" stroke="none" transform="translate(636.748,163.18) skewX(50) skewY(5) translate(-663.973,-163.346)" style="mix-blend-mode: color-burn; animation: a4_t 20s linear infinite both;"/>
+        <rect width="1327.95" height="326.693" fill="#b2f8ab" stroke="none" transform="translate(636.748,1087.18) skewX(50) skewY(5) translate(-663.973,-163.346)" style="mix-blend-mode: color-burn; animation: a5_t 20s linear infinite both;"/>
+    </g>
+</svg>

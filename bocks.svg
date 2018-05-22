@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 1280 600" style="white-space: pre;">
+    <style>
+@keyframes a0_t { 0% { transform: translate(1956.222485px,-36.977512px); } 100% { transform: translate(1280.687944px,-25.617002px); } }
+@keyframes a1_t { 0% { transform: translate(-731.777499px,-36.977512px); } 100% { transform: translate(488.687944px,-25.617002px); } }
+@keyframes a2_t { 0% { transform: translate(356.222501px,-36.977512px); } 100% { transform: translate(2072.687944px,-25.617002px); } }
+@keyframes a3_t { 0% { transform: translate(-7.272596px,-36.977512px); } 100% { transform: translate(2864.687944px,-25.617002px); } }
+@keyframes a4_t { 0% { transform: translate(2956.222439px,-36.977512px); } 100% { transform: translate(-303.312056px,-25.617002px); } }
+@keyframes a5_t { 0% { transform: translate(637px,140px) scale(0.5,0.5) translate(-20px,20px); } 94.5% { transform: translate(87.095032px,320.559998px) scale(0.5,0.5) translate(-20px,20px); } 100% { transform: translate(-292px,348px) scale(0.5,0.5) translate(-20px,20px); } }
+@keyframes a6_t { 0% { transform: translate(-155px,268px) scale(0.5,0.5) translate(-20px,20px); } 12.5% { transform: translate(1136.875px,-138px) scale(0.5,0.5) translate(-20px,20px); } 100% { transform: translate(-1084px,348px) scale(0.5,0.5) translate(-20px,20px); } }
+@keyframes a7_t { 0% { transform: translate(1429px,348px) scale(0.5,0.5) translate(-20px,20px); } 41% { transform: translate(840.109985px,316px) scale(0.5,0.5) translate(-20px,20px); } 100% { transform: translate(500px,348px) scale(0.5,0.5) translate(-20px,20px); } }
+@keyframes a8_mo { 0% { offset-distance: 0%; } 8% { offset-distance: 51.496%; } 9.5% { offset-distance: 61.379%; } 26% { offset-distance: 64.134%; } 41% { offset-distance: 92.112%; } 100% { offset-distance: 100%; } }
+@keyframes a9_t { 0% { transform: translate(1829px,348px) scale(0.5,0.5) translate(-20px,20px); } 100% { transform: translate(-1876px,348px) scale(0.5,0.5) translate(-20px,20px); } }
+    </style>
+    <rect width="307.031" height="730.687" opacity="0.76" fill="#999999" stroke="none" transform="translate(527.796,283.662) translate(-293.443,-293.443)"/>
+    <path fill="#bababa" opacity="0.76" stroke="none" d="M2.19054,-148.513L248.118,-139.503L254.228,586.886L0,586.886Z" transform="translate(892.435,427.633) translate(-293.443,-293.443)"/>
+    <path fill="#7d7d7d" opacity="0.76" stroke="none" d="M230.153,-161.887L578.238,-151.804L586.886,661.105L227.052,661.105Z" transform="translate(998.041,427.633) translate(-293.443,-293.443)"/>
+    <path fill="#bababa" opacity="0.76" stroke="none" d="M5.05686,-145.016L572.781,-136.049L586.886,586.886L0,586.886Z" transform="translate(998.041,427.633) translate(-293.443,-293.443)"/>
+    <rect width="307.031" height="730.687" opacity="0.76" fill="#5b5b5b" stroke="none" transform="translate(290.183,283.662) translate(-293.443,-293.443)"/>
+    <g>
+        <ellipse rx="366" ry="366" stroke="none" fill="#d0d0d0" stroke-opacity="1" fill-opacity="1" opacity="0.5" transform="translate(1976.22,-56.9775) translate(-20,20)" style="animation: a0_t 20s linear infinite both;"/>
+        <ellipse rx="366" ry="366" stroke="none" fill="#a6a5a5" stroke-opacity="1" fill-opacity="1" opacity="0.5" transform="translate(-711.778,-56.9775) translate(-20,20)" style="mix-blend-mode: multiply; animation: a1_t 20s linear infinite both;"/>
+        <ellipse rx="366" ry="366" stroke="none" fill="#a6a5a5" stroke-opacity="1" fill-opacity="1" opacity="0.5" transform="translate(376.223,-56.9775) translate(-20,20)" style="mix-blend-mode: multiply; animation: a2_t 20s linear infinite both;"/>
+        <ellipse rx="366" ry="366" stroke="none" fill="#d0d0d0" stroke-opacity="1" fill-opacity="1" opacity="0.5" transform="translate(12.7274,-56.9775) translate(-20,20)" style="animation: a3_t 20s linear infinite both;"/>
+        <ellipse rx="366" ry="366" stroke="none" fill="#d0d0d0" stroke-opacity="1" fill-opacity="1" opacity="0.5" transform="translate(2976.22,-56.9775) translate(-20,20)" style="animation: a4_t 20s linear infinite both;"/>
+        <ellipse rx="366" ry="366" stroke="none" fill="#5affff" stroke-opacity="1" fill-opacity="1" opacity="0.76" transform="translate(637,140) scale(0.5,0.5) translate(-20,20)" style="mix-blend-mode: darken; animation: a5_t 20s linear infinite both;"/>
+        <ellipse rx="366" ry="366" stroke="none" fill="#ff5a5a" stroke-opacity="1" fill-opacity="1" opacity="0.76" transform="translate(-155,268) scale(0.5,0.5) translate(-20,20)" style="mix-blend-mode: color-dodge; animation: a6_t 20s linear infinite both;"/>
+        <ellipse rx="366" ry="366" stroke="none" fill="#ff5a5a" stroke-opacity="1" fill-opacity="1" opacity="0.76" transform="translate(1429,348) scale(0.5,0.5) translate(-20,20)" style="mix-blend-mode: color-dodge; animation: a7_t 20s linear infinite both;"/>
+        <ellipse rx="366" ry="366" stroke="none" fill="#dadada" stroke-opacity="1" fill-opacity="1" opacity="0.76" transform=" scale(0.5,0.5) translate(-423.199,822.286)" style="mix-blend-mode: difference; animation: a8_mo 20s linear infinite both; offset-path: path('M2221,348C1191.89,131.425,772.228,383.835,-292.54,625.073L166.608,450.195L301.312,475.009L1680.11,292L1292,348'); offset-rotate: 0deg;"/>
+        <ellipse rx="366" ry="366" stroke="none" fill="#5affff" stroke-opacity="1" fill-opacity="1" opacity="0.76" transform="translate(1829,348) scale(0.5,0.5) translate(-20,20)" style="mix-blend-mode: darken; animation: a9_t 20s linear infinite both;"/>
+        <text opacity="0.5" fill="#000000" font-size="100" font-family="Arial" font-weight="700" letter-spacing="0em" word-spacing="0em" stroke="none" transform="translate(1464.02,1225.81)" style="line-height: 73px;"/>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1400 600" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" style="white-space: pre;">
+    <style>
+@keyframes a0_f { 0% { fill: #ffffff; } 12.1053% { fill: #00ffa2; } 31.0526% { fill: #000000; } 47.8947% { fill: #00ffa2; } 64.2105% { fill: #ffffff; } 100% { fill: #ffffff; } }
+@keyframes a1_f { 0% { fill: #fde292; } 12.1053% { fill: #ffffff; } 31.5789% { fill: #dbdbdb; } 47.8947% { fill: #000000; } 64.2105% { fill: #fde292; } 100% { fill: #fde292; } }
+@keyframes a2_t { 0% { transform: translate(504.893226px,310.168566px) rotate(0deg) translate(-263.779768px,-90.505444px); } 8.421% { transform: translate(504.893226px,310.168566px) rotate(0deg) translate(-263.779768px,-90.505444px); } 89.4736% { transform: translate(504.893226px,310.168566px) rotate(360deg) translate(-263.779768px,-90.505444px); } 100% { transform: translate(504.893226px,310.168566px) rotate(360deg) translate(-263.779768px,-90.505444px); } }
+@keyframes a3_t { 0% { transform: translate(1083.951132px,169.154464px) rotate(0deg) translate(-263.779768px,-90.505444px); } 69.4736% { transform: translate(1083.951132px,169.154464px) rotate(360deg) translate(-263.779768px,-90.505444px); } 100% { transform: translate(1083.951132px,169.154464px) rotate(360deg) translate(-263.779768px,-90.505444px); } }
+@keyframes a4_t { 0% { transform: translate(1083.951132px,169.154464px) rotate(0deg) translate(-263.779768px,-90.505444px); } 2.6315% { transform: translate(1083.951132px,169.154464px) rotate(0deg) translate(-263.779768px,-90.505444px); } 73.6842% { transform: translate(1083.951132px,169.154464px) rotate(360deg) translate(-263.779768px,-90.505444px); } 100% { transform: translate(1083.951132px,169.154464px) rotate(360deg) translate(-263.779768px,-90.505444px); } }
+@keyframes a5_t { 0% { transform: translate(1083.951132px,169.154464px) rotate(0deg) translate(-263.779768px,-90.505444px); } 5.2631% { transform: translate(1083.951132px,169.154464px) rotate(0deg) translate(-263.779768px,-90.505444px); } 42.1052% { transform: translate(1083.951132px,169.154464px) rotate(360deg) translate(-263.779768px,-90.505444px); } 100% { transform: translate(1083.951132px,169.154464px) rotate(360deg) translate(-263.779768px,-90.505444px); } }
+@keyframes a6_o { 0% { opacity: 0; } 90% { opacity: 0; } 93.6842% { opacity: 1; } 100% { opacity: 1; } }
+    </style>
+    <rect width="1410.14" height="294.179" fill="#ffffff" stroke="none" transform="translate(699.07,301.53) translate(-705.071,7.35091)" style="animation: a0_f 19s linear both;"/>
+    <rect width="1410.14" height="309.031" fill="#fde292" stroke="none" transform="translate(699.07,301.53) translate(-705.071,-301.53)" style="animation: a1_f 19s linear both;"/>
+    <g>
+        <g id="windmill">
+            <path fill="#000000" stroke="none" d="M281.666,68.5542L281.666,-1659.57L246.445,-1659.57L246.445,68.5542L-1726.74,68.5542L-1765.07,110.992L246.445,110.992L246.445,1928.59L281.666,1928.59L281.666,110.992L1722.17,110.992L1434.75,68.5542Z" fill-rule="evenodd" transform="translate(504.893,310.169) translate(-263.78,-90.5054)" style="animation: a2_t 19s linear both;"/>
+            <g id="windmill-3" transform="translate(-915.092,15.0015)">
+                <path fill="#fde292" stroke="none" d="M281.666,68.5542L281.666,-1659.57L246.445,-1659.57L246.445,68.5542L-1726.74,68.5542L-1765.07,110.992L246.445,110.992L246.445,1928.59L281.666,1928.59L281.666,110.992L1722.17,110.992L1718.92,68.5542Z" fill-rule="evenodd" transform="translate(1083.95,169.154) translate(-263.78,-90.5054)" style="animation: a3_t 19s linear both;"/>
+            </g>
+        </g>
+        <g id="windmill-2">
+            <path fill="#ffffff" stroke="none" d="M281.666,68.5542L281.666,-1659.57L246.445,-1659.57L246.445,68.5542L-1726.74,68.5542L-1765.07,110.992L246.445,110.992L246.445,1928.59L281.666,1928.59L281.666,110.992L1722.17,110.992L1434.75,68.5542Z" fill-rule="evenodd" transform="translate(1083.95,169.154) translate(-263.78,-90.5054)" style="animation: a4_t 19s linear both;"/>
+        </g>
+        <g id="windmill-4" transform="translate(-207.021,306.031)">
+            <path fill="#00ffa2" stroke="none" d="M281.666,68.5542L281.666,-1659.57L246.445,-1659.57L246.445,68.5542L-1726.74,68.5542L-1765.07,110.992L246.445,110.992L246.445,1928.59L281.666,1928.59L281.666,110.992L1722.17,110.992L1434.75,68.5542Z" fill-rule="evenodd" transform="translate(1083.95,169.154) translate(-263.78,-90.5054)" style="animation: a5_t 19s linear both;"/>
+        </g>
+    </g>
+    <rect width="1440" height="632" fill="#ffffff" stroke="none" opacity="0" transform="translate(700,296) translate(-720,-316)" style="animation: a6_o 19s linear both;"/>
+</svg>
